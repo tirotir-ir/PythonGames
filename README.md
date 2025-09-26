@@ -128,7 +128,6 @@ pyinstaller -F -n "UltimateArcadeCar" main.py
 ## 📝 Credits & Attribution
 
 - Original tutorial: **razormist — “F1 Racer Game using Pygame” (2021-02-02)**  
-  https://www.sourcecodester.com
 
 - This fork (10-step learning series): **Refactored UI, Settings, Power-ups, Nitro, Difficulty ramp, Safe audio init, Local Highscores.**  
   By **Daryoush Alipour (Tirotir AI / Hoosh Masnooe)**.
@@ -141,4 +140,4 @@ pyinstaller -F -n "UltimateArcadeCar" main.py
 
 ## 📄 License
 
-Educational use. Replace with your preferred license (e.g., MIT) if publishing.
+Educational use.  (MIT) 
